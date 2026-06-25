@@ -2,6 +2,7 @@
 QuickyJS is a **lightweight** way to instantly test code snippets of HTML, CSS (with HTML because CSS can't "run" by itself), and JS!     
 
 THIS README covers usage, use cases, tech stack, licensing, and has a few quick previews. 
+**Before we start, if you want localhost, we have a localhost release**
 
 ## Usage
 To start, copy/paste your code into the text box or drag and drop or click in the other box to insert a HTML/CSS/JS file.
